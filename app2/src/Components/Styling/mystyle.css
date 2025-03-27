@@ -1,0 +1,11 @@
+.success{
+    color:green;
+}
+
+.error{
+    color:red;
+}
+
+.success,.error{
+    background-color: aquamarine;
+}
